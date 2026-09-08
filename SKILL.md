@@ -72,6 +72,7 @@ description: Review meeting room booking requests and classify them as 승인, �
 
 ## 작성 원칙
 
+- 판정 사유는 한 문장으로 간결하게 쓴다.
 - 규칙에 없는 임의 기준을 추가하지 않는다.
 - 사용자가 제공한 정보만 사용한다.
 - 정보가 부족해도 가능한 범위에서 판단하되, 누락 정보가 판정에 영향을 주면 그 점을 명시한다.
